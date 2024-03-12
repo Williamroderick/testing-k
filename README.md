@@ -1,1 +1,1 @@
-# Hello this is a non profit website
+# Hello this is a profit website
